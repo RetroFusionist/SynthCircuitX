@@ -3,3 +3,6 @@ This project is a simple 8-key mini piano built using an Arduino Uno and simulat
 
 The code uses internal pull-up resistors with the INPUT_PULLUP mode, eliminating the need for external resistors. The note frequencies are defined in a separate pitches.h file, which allows for easy mapping and sound control.
 Comes with added unique features of song displays. 
+
+Online Simulation might not run always due to build time exceeded in free accounts.
+Best used on Arduino IDE with neccesary hardware .
